@@ -1,0 +1,28 @@
+{% extends 'home/layout.html' %}
+{% load static %}  <!-- Load static untuk akses gambar -->
+
+{% block content %}
+    <div class="jumbotron text-center bg-warning text-white py-5"> 
+        <h1>"Welcome to Flourin Bakery"</h1>
+        <p>Fresh & Tasty Products - Best Quality</p>
+    </div>
+
+    <div class="row text-center mt-4">
+        <div class="col-md-4">
+            <img src="{% static 'images/bread.png' %}" class="img-fluid img-thumbnail border" alt="Bakery Shop">
+            <h3>Bread</h3>
+            <p>Crafted with passion, our bread is baked fresh every day to perfection. Taste the love in every slice.</p>
+        </div>
+        <div class="col-md-4">
+            <img src="{% static 'images/cookies.png' %}" class="img-fluid img-thumbnail border" alt="Bakery Shop">
+            <h3>Cookies</h3>
+            <p>Satisfy your sweet cravings with our freshly baked cookies. Each bite is a journey of delightful flavors.</p>
+        </div>
+        <div class="col-md-4">
+            <img src="{% static 'images/birthdayCake.png' %}" class="img-fluid img-thumbnail border" alt="Bakery Shop">
+            <h3>Birthday Cake</h3>
+            <p>Celebrate your special moments with our beautifully crafted birthday cakes, full of flavor and love.</p>
+        </div>
+    </div>
+    
+{% endblock %}
