@@ -2,15 +2,14 @@
 
 - Nama : Andi Zahrina Athirah Ahmad
 - NIM : 2209106126
-  
 
-# POSTTEST 2
 ## Screenshot Halaman Website
 
 ![Beranda Website](./WebsiteBakeryShop/assets/Home.png)
 
 ![Halaman About](./WebsiteBakeryShop/assets/About.png)
 
+# POSTTEST 2
 ## Screenshot Database
 ### Desain Database
 ![Desain Database](https://github.com/user-attachments/assets/0cc090bf-706b-4e57-a619-bdcecf035d92)
