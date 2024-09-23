@@ -5,9 +5,9 @@
 
 ## Screenshot Halaman Website
 
-![Screenshot 2024-09-23 210455](https://github.com/user-attachments/assets/7fe7ddc5-9dcf-49b9-b4d9-657bb2abe28d)
+![Screenshot 2024-09-23 210336](https://github.com/user-attachments/assets/c02e395f-4000-46cb-b195-cb6833cd4ec1)
 
-![Halaman About](./WebsiteBakeryShop/assets/About.png)
+![Screenshot 2024-09-23 210455](https://github.com/user-attachments/assets/7fe7ddc5-9dcf-49b9-b4d9-657bb2abe28d)
 
 # POSTTEST 2
 ## Screenshot Database
