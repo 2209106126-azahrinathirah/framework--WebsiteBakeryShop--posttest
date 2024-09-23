@@ -5,7 +5,7 @@
 
 ## Screenshot Halaman Website
 
-![Beranda Website](./WebsiteBakeryShop/assets/Home.png)
+![Screenshot 2024-09-23 210455](https://github.com/user-attachments/assets/7fe7ddc5-9dcf-49b9-b4d9-657bb2abe28d)
 
 ![Halaman About](./WebsiteBakeryShop/assets/About.png)
 
